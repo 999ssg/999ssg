@@ -35,4 +35,4 @@ I specialize in building end-to-end data pipelines, exploratory analytics engine
 
 ## 📬 Connect with Me
 
-* **LinkedIn:** [LinkedIn](www.linkedin.com/in/suchismitasengupta)
+* **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/suchismitasengupta)
